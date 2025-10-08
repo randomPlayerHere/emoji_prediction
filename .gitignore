@@ -111,6 +111,7 @@ desktop.ini
 
 # Custom cache directories
 .cache/
+.gitignore
 __MACOSX/
 
 Mapping.csv
