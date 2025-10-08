@@ -131,6 +131,7 @@ emoji_prediction/
 │   └── emoji_predictor.py
 │
 ├── data.csv
+├── emoji_mapping.txt
 └── README.md
 ```
 
