@@ -127,11 +127,10 @@ python emoji_predictor.py
 ```
 emoji_prediction/
 │
-├── data/
-│   └── data.csv
+├── src/
+│   └── emoji_predictor.py
 │
-├── emoji_predictor.py
-├── requirements.txt
+├── data.csv
 └── README.md
 ```
 
@@ -143,13 +142,6 @@ emoji_prediction/
 - Experiment with transformer-based models (BERT)
 - Build an interactive web interface using Flask or Streamlit
 - Extend to multilingual emoji prediction
-
----
-
-## Author
-
-**Khushal Nirwal**  
-GitHub: [randomPlayerHere](https://github.com/randomPlayerHere)
 
 ---
 
